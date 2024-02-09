@@ -11,9 +11,9 @@ cd A.I.-Nim
 ```
 
 # Usage
-To start the game, run the **'runner.py'** file.
+To start the game, run the **'play.py'** file.
 ```
-python runner.py
+python play.py
 ```
 The game will ask you to choose whether you want to go first or second. Once you've chosen, the game will start and display the number of sticks on the board.
 
